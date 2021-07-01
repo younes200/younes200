@@ -1,11 +1,9 @@
-### Hi there 👋
-
 ## Fancy seeing you here! 👋
 
 I am Younes, T-shaped person (not literally), tech enthusiast & an open-source advocate. 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/younesbenaomar/)](https://www.linkedin.com/in/younesbenaomar/)
+[![Linkedin Badge](https://img.shields.io/badge/-younes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/younesbenaomar/)](https://www.linkedin.com/in/younesbenaomar/)
 
 ## ⚡ Technologies
 

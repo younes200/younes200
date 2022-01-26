@@ -7,8 +7,10 @@ I focus on high quality, performance, UX/UI, best practices, and timeline in my 
 
 ## ⚡ Technologies
 
-
 * Solidity, Hardhat, Truffle, Rust,
 * React-React-Native / Next.JS / Javascript / Typescript / Web3 / EthersJs
 * IPFS, Thegraph, Moralis APIs, 
 * Etherscan API, Opensea SDK, Chainlink
+
+
+[homepage](https://blog-younes200.vercel.app)

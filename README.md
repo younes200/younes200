@@ -12,8 +12,3 @@ I focus on high quality, performance, UX/UI, best practices, and timeline in my 
 * React-React-Native / Next.JS / Javascript / Typescript / Web3 / EthersJs
 * IPFS, Thegraph, Moralis APIs, 
 * Etherscan API, Opensea SDK, Chainlink
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=younes200&count_private=true&show_icons=true&include_all_commits=true)
-
-

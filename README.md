@@ -13,6 +13,4 @@ I focus on high quality, performance, UX/UI, best practices, and timeline in my 
 * Etherscan API, Opensea SDK, Chainlink
 
 
-Get in touch by booking a [meeting](https://calendly.com/younes-b)
-
-[homepage](https://blog-younes200.vercel.app)
+Get in touch by booking a [meeting](https://calendly.com/younes-b) or check my [personal website](https://blog-younes200.vercel.app)

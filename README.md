@@ -7,10 +7,10 @@ I focus on high quality, performance, UX/UI, best practices, and timeline in my 
 
 ## ⚡ Technologies
 
+* Node / Python
 * React-React-Native / Next.JS / Javascript / Typescript / Web3 / EthersJs
 * Solidity, Hardhat, Truffle, Rust,
-* IPFS, Thegraph, Moralis APIs, 
-* Etherscan API, Opensea SDK, Chainlink
+* IPFS, Thegraph, Etherscan API, Opensea SDK, Chainlink
 
 
 Get in touch by booking a [meeting](https://calendly.com/younes-b) or check my [personal website](https://blog-younes200.vercel.app)

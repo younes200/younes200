@@ -5,9 +5,9 @@ I focus on high quality, performance, UX/UI, best practices, and timeline in my 
 
 ## ⚡ Technologies
 
-* NodeJS / Python / Java / C / C#
+* NodeJS / Python / Java / C / C# / Swift
 * React/React-Native / Next.JS / Javascript / Typescript / Web3 / EthersJs
 * Docker / Kubernetes / AWS / Google Cloud
 * Figma, Sketch
 
-Get in touch by booking a [meeting](https://calendly.com/younes-b) or check my [personal website](https://blog-younes200.vercel.app)
+Get in touch by booking a [meeting](https://cal.com/younes0x53) or check my [personal website](https://blog-younes200.vercel.app)

@@ -14,6 +14,6 @@ Currently exploring:
 
 - [`expo-turso-drizzle`](https://github.com/expo-starter/expo-turso-drizzle-example) — Expo + DrizzleORM + Turso, local-first by default
 - [`celluloid`](https://github.com/celluloid-camp/celluloid) — Collaborative video annotation platform for education
-- [`celluloid/toolkit`](https://github.com/celluloid-camp/toolkit) — Video analysis pipeline: object detection (MediaPipe), scene detection & transcription with speaker diarization (Whisper + pyannote)
+- [`celluloid/toolkit`](https://github.com/celluloid-camp/toolkit) — Video analysis pipeline: object detection and tracking, scene detection & transcription with speaker diarization.
 
 Always open to interesting problems.
